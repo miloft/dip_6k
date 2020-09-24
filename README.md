@@ -24,5 +24,9 @@ This project use
 
 7. You're breathtaking!
 
+![ShemeDB](https://raw.githubusercontent.com/miloft/dip_6k/master/scheme.PNG "Орк")
+
+
+
 ## Disclaimer
 :shit: no comments in this source code (but they may appear)
