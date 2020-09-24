@@ -25,4 +25,4 @@ This project use
 7. You're breathtaking!
 
 ## Disclaimer
-:shit: no comments in this source code
+:shit: no comments in this source code (but they may appear)
